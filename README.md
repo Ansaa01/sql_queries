@@ -1,4 +1,5 @@
 DATA EXPLORATORY PROJECT
+
 Welcome to my deep dive into the global story of COVID-19 through data! Using SQL, I explored the twists and turns of the pandemic, tracking cases, deaths, and vaccinations across continents and countries.
 
 Project Highlights:
