@@ -10,7 +10,7 @@ Key Insights:
 This project was a fascinating dive into SQL's power in data analysis. I gained critical insights on structuring complex queries, using CTEs for dynamic calculations, and learned just how much data reveals about global health challenges and responses.
 Whether you're here to explore SQL or learn about COVID trends, I hope you find this project as enlightening as I did!
 
-HOUSING DATA CLEANING
+HOUSING DATA CLEANING PROJECT
 
 This project was all about turning cluttered housing data into clear insights. Here’s how it went:
 Data Standardization: Transformed complex property and owner addresses into individual columns (Address, City, State) using SUBSTRING_INDEX and LOCATE functions. This breakdown was crucial for easier sorting, filtering, and analysis.
