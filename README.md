@@ -21,3 +21,8 @@ Improving Readability:Converted SoldAsVacant values from ‘Y/N’ to ‘Yes/No�
 Removing Duplicates:Created a Common Table Expression (CTE) to identify and remove duplicate entries based on property details and sale records.
 
 Project Takeaway: This project taught me how powerful SQL can be in transforming data chaos into clarity. Dive in to see the magic!
+
+TAKE HOME PROJECT
+
+In this project, i developed a relational database consisting of three interconnected tables: Customers, Products and Sales. The goal was to perform in-depth analysis and provide actionable insights regarding sales performance and customer behaviours, essential for informed-decision making.
+
